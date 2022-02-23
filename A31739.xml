@@ -1,0 +1,166 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of popery</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31739</idno>
+            <idno type="STC">Wing C2022</idno>
+            <idno type="STC">ESTC R24810</idno>
+            <idno type="EEBO-CITATION">08597743</idno>
+            <idno type="OCLC">ocm 08597743</idno>
+            <idno type="VID">41431</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31739)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41431)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1250:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of popery</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1688?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: Stains and bleeding.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Popes --  Infallibility.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pamphlet">
+            <pb n="1" facs="tcp:41431:1" rendition="simple:additions"/>
+            <head>THE CHARACTER OF POPERY.</head>
+            <p>
+               <hi>POPERY</hi> is a <hi>Catholick</hi> Shamm; for it cheats thoſe that tamper with it, of their Under<g ref="char:EOLhyphen"/>ſtandings, and their Senſes, their Conſciences, and their Souls: An Eccleſiaſtical Juggle; the cunning Knave's Mask, and the filly Bigot's Creed: <hi>Jacob's</hi> Ladder revers'd, or the Debauchee's En<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gine; which he doubts not, but, if well oyl'd, will at laſt carry him to Heaven: For 'tis a Project, that offers at ſaving Men, and their Sins together; nay, in many Caſes, to make their Sins meritorious of Salvation: A Blendure of <hi>Ambition</hi> and <hi>Covetouſneſs,</hi> dreſs'd up in a long Mantle of <hi>Hypochriſie,</hi> call'd, <hi>Saint Peter's Cloak:</hi> A falſe Bait, managed by a crafty ſort of Fiſher-men, that pretend to angle Souls for Heaven; but deſign only to catch Gudgeons, and graſp Earth, and its Advantages: Jingling the Keys of PARADISE, on purpoſe to amuſe the Croud, and to get Opportunities to pick their Pockets. 'Tis a ſtrange Farrago of Errors and Impoſtures: A Gallimawfrey, compoſed of contradictory Ingredients: The higheſt Superſti<g ref="char:EOLhyphen"/>tions, and yet the rankeſt Prophaneneſs: Subtilties of the fineſt ſpinning, and moſt groſs Abſurdities. It makes its God and then eats him. It teaches all its Votaries, to Pray, without either underſtanding the Words, or yet devout Attention of Mind: To Faſt with a Luxurious Dinner of Fiſh, Wine, and Sweet-Meats, that <hi>Heliogabalus,</hi> and other choiceſt Heathen Gluttons would lick their Lips at. It cries up MARRIAGE for a Sacrament; and yet, at the ſame time, barrs its Sacred Clergy from it, becauſe it will defile them. It boaſts its ſelf to be the ſole Keeper and Interpreter of the <hi>Scriptures;</hi> and yet avows, that they are corrupted, and unintelligible: And ſo, at once, proclaims her own per<g ref="char:EOLhyphen"/>fidious Negligence, in not preſerving the <hi>Sacred Oracles;</hi> and her monſtrous Uncharitableneſs, in not gi<g ref="char:EOLhyphen"/>ving Us an Authentick Explication. It pretends an Infallible Knack of deciding all Controverſies; yet cruelly ſuffers her Brats to ſpend their Times in endleſs Quarrels; witneſs the Brawls between her <hi>Fran<g ref="char:EOLhyphen"/>ciſcans</hi> and her <hi>Dominicans,</hi> her <hi>Jeſuites</hi> and her <hi>Janſeniſts,</hi> her moſt <hi>Chriſtian,</hi> and moſt <hi>Catholick Doctors.</hi>
+            </p>
+            <p>We may therefore call it a <hi>Rope of Sand,</hi> held together meerly by <hi>Intereſt</hi> and <hi>Force:</hi> A <hi>Babel</hi>-Building, erected by diligent <hi>Fraud,</hi> and aſpiring <hi>Pride,</hi> upon the Plains of drowſie <hi>Ignorance,</hi> and eaſy <hi>Credulity;</hi> and cemented not only with the Tears, but the Blood of thouſands of <hi>Innocents.</hi> A de<g ref="char:EOLhyphen"/>vouring MONSTER, begot in the dark by an inceſtuous Mixture of <hi>Impudence</hi> the Son, with <hi>Ignorance</hi> the Mother; Suckled by <hi>PHOCAS,</hi> with the Milk of REBELLION, and Blood-Roy<g ref="char:EOLhyphen"/>al; and Rocked to Sleep by <hi>Pope BONIFACE,</hi> in the Cradle of a <hi>univerſal Biſhoprick;</hi> where doting <hi>MONKS</hi> ſung Lullabies to it, with a multitude of lying <hi>Legends,</hi> and feigned <hi>Miracles.</hi> The <hi>French</hi> Uſurper, King <hi>PEPIN,</hi> and his Son, gave it a new Coat; and <hi>Pope HILDERBRAND</hi> taught it to go High-Lone, and trample on the NECKS of <hi>EMPERORS</hi> and <hi>KINGS.</hi> 'Twas always very fond of Babies to play with; and cryed and ſcratcht moſt filthily, till it had got Pictures and Images ſet up in <hi>Churches;</hi> which from Lay-men's Books, quickly became their GODS. The School-men provided it Rattles of Diſtinction, and abundance of Elder POT-GUNS, to divert it ſelf, and amuſe the World with. The Conventicle of <hi>TRENT</hi> found it ſick of the <hi>Rickets;</hi> but ap<g ref="char:EOLhyphen"/>plying altogether the <hi>Italian Phyſick,</hi> ſet it again upon its Legs, though with a Head ſwell'd bigger than before: Yet ever ſince, it hath been languiſhing in a <hi>Conſumption;</hi> to palliate which, Fifty Thou<g ref="char:EOLhyphen"/>ſand Fathers of the Society, are always buſy with <hi>Cordials</hi> and <hi>Paint,</hi> to keep up its Spirits and Com<g ref="char:EOLhyphen"/>plexion. The DIET it delights in, is <hi>Aurum Potabile,</hi> and the <hi>Blood of MARTYRS:</hi> The <hi>In<g ref="char:EOLhyphen"/>quiſition</hi> is its Right-Leg, and <hi>Sophiſtry</hi> its Left; and with theſe Two Supporters, it beſtrides the World.</p>
+            <p>To expreſs its Eſſence, and full Latitude in one word, you muſt call it <hi>ANTI-CHRISTANISM,</hi> (whether you take <hi>[Anti]</hi> to ſignifie <hi>againſt, for,</hi> or <hi>inſtead of,</hi> as the <hi>Greek</hi> Tongue hath it; or whe<g ref="char:EOLhyphen"/>ther you take <hi>[CHRIST]</hi> to denote peculiarlty our Bleſſed <hi>Saviour;</hi> or more generally, his <hi>Vice<g ref="char:EOLhyphen"/>gerents:</hi> or more largely, his <hi>Saints</hi> or <hi>Catholick Church;</hi> who all enjoy the Unction of the <hi>Holy One.</hi>] For as this <hi>Mock-Religion</hi> moſt impudently pretends its <hi>POPE,</hi> the greateſt Rebel and Enemy to <hi>GOD</hi> and <hi>CHRIST,</hi> under Heaven) to be <hi>Vice-God,</hi> or <hi>Chriſt's Vicar</hi> or <hi>Lieutenant</hi> upon Earth: and that he has a Plentitude of Power in <hi>Chriſt's</hi> ſtead, to Rule the Univerſal Church: Under which forged Com<g ref="char:EOLhyphen"/>miſſion, and kind Sembleance, nothing can tend more againſt the Perſon, Honour, Merits, Offices, and whole <hi>Goſpel</hi> of <hi>CHRIST,</hi> nothing be more degrogatory to the juſt Rights, and Veneration due to Sove<g ref="char:EOLhyphen"/>reign Earthly Princes; nor yet any thing be more pernicious to, or deſtructive of Sincere Chriſtians, than his Tripple-Crown'd <hi>TRAYTOR</hi>'s Doctrines and Practiſes.</p>
+            <p>For <hi>Popery,</hi> by its Doctrine of <hi>Tranſubſtantiation,</hi> will have the Body of <hi>Chriſt</hi> to be without the Pro<g ref="char:EOLhyphen"/>prieties of a true Body; and conſequently, taking away the Humane Nature, it denies the Perſon of our Mediator.</p>
+            <p>It Invades his Royal Office, by aſſuming his Incommunicable Titles, by undertaking to Reſcind, and make void his LAWS; Abſolving Man from his Duty to God, by Diſpenſations, and from the Penalty
+<pb facs="tcp:41431:2" rendition="simple:additions"/>which Sin hath made his due, by Indulgence; ſo <hi>Bellarmine</hi> tell us, <hi>That the Pope hath a Power to make Sin to be no Sin.</hi> And the Council of <hi>Latereran, That the Pope has all Power over all Powers, as well of Heaven as of Earth.</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Faciendi peccatum non pecca<g ref="char:EOLhyphen"/>tum.</hi>
+                  </p>
+                  <p>
+                     <hi>Con.</hi> Lat. <hi>Seſſ.</hi> 10. <hi>ſupra omnes poteſtates tam Coeli quam Terrae.</hi>
+                  </p>
+               </note>
+            </p>
+            <p>It Blaſphemes the PRIESTLY Office of Chriſt, whereby at one Oblation of himſelf, he ſatisfied for all Sin, <hi>Heb.</hi> 10.11. 1 <hi>Jo.</hi> 1.7. For as if the ſame was Inſufficient, <hi>Popery</hi> appoints an innumerable Company of Shaveling Prieſts, whoſe daily buſineſs is pretended to offer up <hi>Chriſt</hi> afreſh, or a propitia<g ref="char:EOLhyphen"/>tory Sacrifice for the Quick and the Dead, in their Wicked and Idolatrous Maſs. It alſo undertakes to Purge away Sins, by other Medicines, beſides his precious Blood. And ſets up a Multitude of other MEDIATORS and INTERCESSORS. It oppoſes <hi>Chriſts</hi> Prophetick Office, by adding a multitude of Traditions and Inventions, as neceſſary to Salvation, to be received with the ſame Reverence as the <hi>Word of God.</hi>
+            </p>
+            <p>It exalts it ſelf above all that is called God in the World: For its <hi>POPE</hi> Crowns and Uncrowns Em<g ref="char:EOLhyphen"/>perours with his Feet, and Treads upon them as one would do upon a <hi>Viper;</hi> Takes upon him to Depoſe <hi>KINGS</hi> and <hi>PRINCES,</hi> to give away their <hi>KINGDOMS</hi> to diſcharge Subjects of their Allegiance and Oaths; and to juſtifie their Rebellion againſt, or Aſſaſſinations of their <hi>Soveraigns.</hi>
+            </p>
+            <p>To ſpeak Truth, <hi>POPERY</hi> is the Debauchment of all RELIGION; For by Subſtituting it ſelf under the Chriſtian Name, it hath Subverted the innate Senſe and Worſhip of the Deity, and maintains Tenets, and impoſes Practiſes, which the wiſer ſort of Heathens always bluſh'd at; And at the ſame time, it hath ſuppreſſed, and depraved, and counterfeited Divine Revelations; ſo that, the Principles both of Natural and Revealed Religion being thus Corrupted. It makes its Proſelytes but ſo much the more the Children of Wrath, than they were by Nature; for ſhe hood-winks their Underſtandings, degenerates and ſcars their Conſciences, and lays waſte all Morality.</p>
+            <p>Her deſign is not the promoting of <hi>Chriſt</hi>'s Intereſt, (for that is apparently proſtituted) but the Securing and Agrandizing of a Faction, which under the Profeſſion of Chriſtianity, might be falſe to all its Realities. Her Rule is the Corrupt Inclination of depraved Nature, to which they have throughly Conformed their Practical Divinity; which eaſeth Men of Duty, for which they have an Averſion, and clears the way to thoſe Sins to which they are diſpoſed, as though there were no need to avoid them. Thus their Principles are more pernicious, becauſe more taking; becauſe Men will quickly like that Religion, becauſe he Loves his Sin; and will, 'tis to be feared, follow both, though he Periſh for it Eternally.</p>
+            <p>She hath by Various Methods, deſtroy'd (as much as in her lyes) the Credibility of the Chriſtian Religion: As:</p>
+            <p>
+               <hi>Firſt.</hi> By making Men to neglect and ſlight thoſe Sacred Oracles, which contains firm Demonſtrations of its Verity; and to rely upon the vain Sandy pretence of her Infallibility, for the certainty of Faith.</p>
+            <p>
+               <hi>Secondly,</hi>
+               <note place="margin">
+                  <hi>St.</hi> Auſtin. <hi>Figmenta mendatum aut porten<g ref="char:EOLhyphen"/>da fallaci<g ref="char:EOLhyphen"/>am Spiri<g ref="char:EOLhyphen"/>tuum.</hi>
+               </note> By obtruding upon the World her <hi>Fabulous Legends,</hi> and <hi>Lying Miracles,</hi> in which ſhe is ſo Notorious Falſary, which to every Rational Man appear to have been only Deluſions, and Rank Im<g ref="char:EOLhyphen"/>poſtures.</p>
+            <p>
+               <hi>Thirdly,</hi> By rendring the Goſpel it ſelf unworthy of Acceptation; as ſhe hath model'd, and deprav'd it, through her abſurd, ſuperadded Principles, Idolatrous Worſhip, Groſs Superſtitious Rites, and innumerable Ceremonies, no leſs various in themſelves, than Burthenſome to the Obſervers.</p>
+            <p>
+               <hi>Fourthly,</hi> By reducing our whole Duty (upon the Matter) to certain, unreaſonable, Servile Submiſſions, to her Haughty, Avaritious Clergy: And by reſolving the Terms of Eternal Happineſs, finally, into the Benediction, or good Pleaſure of her vile Fulſome Prieſts.</p>
+            <p>So that take her Syſteme together, and I ſee not how either <hi>Jew, Pagan, Turk,</hi> or other <hi>Infidel,</hi> can Honeſtly entertain the Chriſtian Religion, as ſhe Teacheth it; or if they ſhould ſo Embrace it, how far they would be Gainers by the Bargain.</p>
+            <p>In the <hi>Homilies of the Church of</hi> England <hi>for</hi> Whitſunday, you have this Character given of her; <hi>That the Church of</hi> Rome <hi>is an Idolatrous Church, not only an Harlot, as the Scripture calls her, but alſo a Foul, Filthy, Old, Withered Harlot, and the Mother of Whoredeme, Guilty of the ſame Idolatry, and worſe than was among the Gentiles.</hi>
+            </p>
+            <p>
+               <hi>POPERY</hi> in its ſelf, is the vileſt Tyranny, that ever Heaven in Judgment ſuffered, or Earth in Patience groan'd under: That of <hi>Dionyſius</hi> and <hi>Nero</hi> were but Flea-bitings to it; They only Challenged a Deſpoti<g ref="char:EOLhyphen"/>cal Power over Peoples Perſons, This aſſumes an uncontroulable Dominion over their very Conſciences and Souls: And is framed intirely for the Befooling, Enſlaving, Deſpoiling, and Corrupting of the Laiety, and the Enriching and Agrandizing her Prieſthood; who with the Supple Hams of a Flattering Hypocriſie, firſt ſeem to Adore and Deifie; but as ſoon as they have gained their point, do really Spurn at, and Trample upon all Secular Dignity and Authority; for She aſſumes an Arbitrary Power to pluck up, and Deſtroy all Governments, when it is for her purpoſe.</p>
+            <p>But ſtill, a fine Conveniency or Umbrage of Religion ſhe is, to thoſe who will live by the Rules of none; And an admirable Colour for Ambitious Princes to enlarge their Empire, to the prejudice of their Neigh<g ref="char:EOLhyphen"/>bours, and pretence of advancing the Catholick Faith; and to deſtroy their own People for <hi>God</hi>'s ſake, when ever they ſhall have Oppreſſed them ſo far as to fear them: And as ready an Engine to excite Sub<g ref="char:EOLhyphen"/>jects to Rebellion againſt their Lawful Soveraigns, as oft as they will not Dance to the Meaſures of the Vatican.</p>
+            <p>
+               <hi>To Conclude:</hi> As every Religion conſiſts of Doctrine, Worſhip, and Diſcipline; ſo the Doctrine of <hi>Popery</hi> is Ignorance and Error: Its Worſhip, Idolatry and Superſtition: Its Diſcipline, Rage and Cruelty. Whence fitly doth the Holy Spirit, in Sacred Writ, deſcribe her by thoſe three Titles, <hi>The Falſe Prophet, The Whore,</hi> and <hi>The Beaſt: Falſe Prophet,</hi> for her Teaching, and enforcing Errors; <hi>Whore,</hi> for her Ido<g ref="char:EOLhyphen"/>latry, Gaudy Dreſs, and Meritricious Paintings: And <hi>Beast,</hi> for her Ravenous and Savage Cruelty.</p>
+            <p>
+               <hi>To Conclude further:</hi> She is the Diſgrace, and grand Impediment of the Goſpel, the overthrow of Morals, the perperual Diſquieter of Civil States, the Deſtroyer of Chriſtians, the Scandal of Infidels, and the Peſt of the World. Which therefore, all Mankind are obliged, both in Honour, Conſcience, and In<g ref="char:EOLhyphen"/>tereſt, by all Lawful ways to oppoſe; and Wiſh, and heartily Pray, for its Extirpation from the Face of the <hi>Earth;</hi> which for the Comfort of all that ſuffer by, and under it, and to the Terror of all its Abettors, (notwithſtanding their Subtilties, or Violence, to ſupport what Providence has doomed for Deſtruction) ſhall aſſuredly, in <hi>God</hi>'s due time, be accompliſhed, and the <hi>KINGS</hi> of the <hi>Earth</hi> ſhall Burn her with Fire. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
